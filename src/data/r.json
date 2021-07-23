@@ -1,0 +1,130 @@
+{
+    "Header": {
+  
+        "title": "Reimagine The Menu",
+        "paragraph": "People gravitate to what looks delicious, ARAi empowers restaurant owners to effortlessly attract new customers with 3D models of their amazing food."
+  
+    },
+    "About": {
+        "paragraph": "Completely reimagine the way your customers interact with a menu.  Appeal to their senses with 3D models of your amazing food in an amazing app.  Simply take a video of each dish as it's ordered, send us your menu’s pdf, and branding to have the most innovative menu to attract customers.  Customers' can seamlessly download the app in seconds with an app clip that can be placed on tables or at the entrance.  Create an experience customers can not resist.",
+        "Why": [
+            "Effortless",
+            "Innovative",
+            "Simple"
+        ],
+        "Why2": [
+            "Engaging",
+            "Quick",
+            "Powerful"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-gamepad",
+            "name": "VR Games",
+            "text": "Step into immersive worlds with scanned in people, tools, food, cars, and so much more all created effortlessly on an iPhone with ARAi.  "
+        },
+        {
+            "icon": "fa fa-cube",
+            "name": "AR/VR Apps",
+            "text": "Enhance your apps with 3D assets, whether it creates a lively effect in your onboarding or is a core user experience, reimagine what you can do with AR in record time."
+        },
+        {
+            "icon": "fa fa-cutlery",
+            "name": "AR Restaurant Menu",
+            "text": "When food appeals to someone’s senses they are more likely to purchase that food, an AR menu with 3D food placed directly on the guest’s table does exactly this."
+        },
+        {
+            "icon": "fa fa-home",
+            "name": "Real Estate",
+            "text": "Explore homes and commercial areas days before arriving at a showing and have the piece of mind to see every corner in incredible detail. "
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Engineering",
+            "text": "Visualize and conceptualize prototypes that you engineered and share what you’ve created with others."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Marketing",
+            "text": "Create beautiful marketing videos, social media posts, commercials, and more with scanned 3D assets in minutes."
+        }
+  
+  
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-eye",
+            "title": "Appeal To The Senses",
+            "text": "According to a business magazine, Fast Company, Facebook posts with images receive 120% more engagement.  3D models of your amazing food attracts customers by appealing to their senses, just as FB posts with images have more engagement."
+        },
+        {
+            "icon": "fa fa-cutlery",
+            "title": "Seamless Experience",
+            "text": "Customers' simply scan a QR code to download an app clip, a slimmed down version of the app that almost instantly downloads and showcases your amazing food."
+        },
+        {
+            "icon": "fa fa-bolt",
+            "title": "Effortless Setup",
+            "text": "Simply take a video of each dish as it's ordered, send a copy of your menu, your brand assets/guidelines, and we’ll do the rest."
+        }
+    ]
+ }
+ 

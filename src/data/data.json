@@ -1,0 +1,130 @@
+{
+    "Header": {
+  
+        "title": "3D Models From Photos",
+        "paragraph": "Amazing for AR/VR, games, apps, product demos, and more."
+  
+    },
+    "About": {
+        "paragraph": "I'm Andreas Ink, the developer of ARAi.  I'm a university student who believes that everyone should have access to AR tech to create amazing things.  I wanted to get into game development, when I found 3D assets to be hard to obtain, so I made an app that empowers developers to create amazing games and apps, engineers to model their excellent designs, teachers to build attention grabbing material, entrepreneurs to maximize impact and profits, and so much more.",
+        "Why": [
+            "Effortless",
+            "Innovative",
+            "Simple"
+        ],
+        "Why2": [
+            "Engaging",
+            "Quick",
+            "Powerful"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-gamepad",
+            "name": "VR Games",
+            "text": "Step into immersive worlds with scanned in people, tools, food, cars, and so much more all created effortlessly on an iPhone with ARAi.  "
+        },
+        {
+            "icon": "fa fa-cube",
+            "name": "AR/VR Apps",
+            "text": "Enhance your apps with 3D assets, whether it creates a lively effect in your onboarding or is a core user experience, reimagine what you can do with AR in record time."
+        },
+        {
+            "icon": "fa fa-cutlery",
+            "name": "AR Restaurant Menu",
+            "text": "When food appeals to someone’s senses they are more likely to purchase that food, an AR menu with 3D food placed directly on the guest’s table does exactly this."
+        },
+        {
+            "icon": "fa fa-home",
+            "name": "Real Estate",
+            "text": "Explore homes and commercial areas days before arriving at a showing and have the piece of mind to see every corner in incredible detail. "
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Engineering",
+            "text": "Visualize and conceptualize prototypes that you engineered and share what you’ve created with others."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Marketing",
+            "text": "Create beautiful marketing videos, social media posts, commercials, and more with scanned 3D assets in minutes."
+        }
+  
+  
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-cube",
+            "title": "Convert Photos Into 3D",
+            "text": "Upload up to 250 photos and ARAi will process the photos into a 3D model."
+        },
+        {
+            "icon": "fa fa-retweet",
+            "title": "Unlimited Rescans",
+            "text": "You deserve a perfect model, that's why you receive infinite rescans."
+        },
+        {
+            "icon": "fa fa-bolt",
+            "title": "Super Fast",
+            "text": "On average, receive your 3D model in less than 10 minutes"
+        }
+    ]
+ }
+ 
